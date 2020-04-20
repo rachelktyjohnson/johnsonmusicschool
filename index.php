@@ -9,12 +9,11 @@
 <div class="container-homepage">
   <h2>What do you want to learn?</h2>
   <div class="learn">
-    <a style="background-image:url('img/header-guitar.png');" href="#">Guitar</a>
-    <a style="background-image:url('img/header-piano.png');" href="#">Piano</a>
-    <a style="background-image:url('img/header-drums.jpg');" href="#">Drums</a>
-    <a style="background-image:url('img/header-bass.png');" href="#">Bass</a>
-    <a style="background-image:url('img/header-ukulele.png');" href="#">Ukulele</a>
-    <a style="background-image:url('img/header-contact.png');" href="#">Theory</a>
+    <a style="background-image:url('img/header-guitar.png');" href="guitar.php">Guitar</a>
+    <a style="background-image:url('img/header-piano.png');" href="piano.php">Piano</a>
+    <a style="background-image:url('img/header-drums.jpg');" href="drums.php">Drums</a>
+    <a style="background-image:url('img/header-bass.png');" href="bass.php">Bass</a>
+    <a style="background-image:url('img/header-ukulele.png');" href="ukulele.php">Ukulele</a>
   </div>
 
 <?php include("includes/callout.php"); ?>

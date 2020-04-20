@@ -24,17 +24,17 @@
               <li>
                 <a href="#" class="lessons-toggle">Lessons&#9662;</a>
                 <ul class="lessons-dropdown">
-                  <li><a href="#">Guitar</a></li>
-                  <li><a href="#">Piano</a></li>
-                  <li><a href="#">Drums</a></li>
-                  <li><a href="#">Ukulele</a></li>
-                  <li><a href="#">Bass</a></li>
+                  <li><a href="guitar.php">Guitar</a></li>
+                  <li><a href="piano.php">Piano</a></li>
+                  <li><a href="drums.php">Drums</a></li>
+                  <li><a href="ukulele.php">Ukulele</a></li>
+                  <li><a href="bass.php">Bass</a></li>
                 </ul>
               </li>
               <li><a href="about.php">About</a></li>
               <li><a href="faq.php">FAQ</a></li>
               <li><a href="contact.php">Contact</a></li>
-              <li class="portal"><a href="#" target="_blank">Student Portal</a></li>
+              <!--<li class="portal"><a href="#" target="_blank">Student Portal</a></li>-->
             </ul>
 
           </nav>
