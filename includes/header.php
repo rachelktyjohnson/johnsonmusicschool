@@ -31,7 +31,7 @@
                   <li><a href="#">Bass</a></li>
                 </ul>
               </li>
-              <li><a href="#">About</a></li>
+              <li><a href="about.php">About</a></li>
               <li><a href="#">FAQ</a></li>
               <li><a href="contact.php">Contact</a></li>
               <li class="portal"><a href="#" target="_blank">Student Portal</a></li>
