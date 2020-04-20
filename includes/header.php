@@ -15,12 +15,12 @@
       <div class="main-container">
         <header>
           <div class="pre-nav">
-            <a href="#"><img src="img/jms-logo.png" /></a>
+            <a href="index.php"><img src="img/jms-logo.png" /></a>
             <span class="toggle">	&#9776;</span>
           </div>
           <nav class="main-nav">
             <ul>
-              <li><a href="#">Home</a></li>
+              <li><a href="index.php">Home</a></li>
               <li>
                 <a href="#" class="lessons-toggle">Lessons&#9662;</a>
                 <ul class="lessons-dropdown">
@@ -33,6 +33,7 @@
               </li>
               <li><a href="#">About</a></li>
               <li><a href="#">FAQ</a></li>
+              <li><a href="contact.php">Contact</a></li>
               <li class="portal"><a href="#" target="_blank">Student Portal</a></li>
             </ul>
 
