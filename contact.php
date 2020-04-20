@@ -12,6 +12,9 @@
       <p>0432 633 453</p>
       <h2>Find Us</h2>
       <p><a target="_blank" href="http://g.page/johnsonmusic/">Suite 209, 30 Campbell Street, Blacktown</a></p>
+      <div id="callout" style="width:100%;">
+        <h3>Claim your FREE trial lesson today!</h3>
+      </div>
     </div>
     <div class="map">
       <h2>Map</h2>

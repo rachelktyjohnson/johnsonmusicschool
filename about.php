@@ -40,7 +40,9 @@
         </p>
       </div>
     </div>
-    <hr />
+
+    <?php include("includes/callout.php"); ?>
+
     <h2>The Faculty</h2>
     <div class="faculty">
       <div class="faculty-member">
