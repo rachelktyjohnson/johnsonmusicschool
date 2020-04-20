@@ -64,7 +64,7 @@ body {
 }
 .main-container header .main-nav ul .lessons-dropdown {
   padding: 15px;
-  background: #f4f4f4;
+  background: #fafafa;
   border-radius: 5px;
 }
 @media (min-width: 768px) {
@@ -109,12 +109,15 @@ body {
   .main-container header .main-nav ul {
     display: flex;
     flex-direction: row;
-    padding-bottom: 0px;
+    padding-bottom: 0;
   }
 }
 .main-container header .main-nav ul .lessons-nav {
   display: flex;
   flex-direction: column;
+}
+.main-container main .feature-image img {
+  width: 100%;
 }
 
 /*# sourceMappingURL=styles.css.map */
