@@ -13,8 +13,9 @@ body {
 }
 
 .main-container {
-  with: 80%;
-  max-width: 1200px;
+  display: flex;
+  flex-direction: column;
+  max-width: 1000px;
   background: rgba(255, 255, 255, 0.99);
   margin: 0 auto;
   height: 100vh;
@@ -118,6 +119,20 @@ body {
 }
 .main-container main .feature-image img {
   width: 100%;
+}
+
+footer {
+  background: #666;
+  color: white;
+  font-weight: 200;
+  font-size: 0.8rem;
+  text-align: center;
+  padding: 5px;
+  margin-top: auto;
+  letter-spacing: 1px;
+}
+footer a {
+  color: #ddd;
 }
 
 /*# sourceMappingURL=styles.css.map */

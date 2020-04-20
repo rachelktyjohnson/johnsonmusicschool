@@ -48,7 +48,9 @@
 
         </main>
 
-
+        <footer>
+          <span>&copy; <?= date('Y');?> Johnson Music. Made by <a href="#">tealjay</a>.</span>
+        </footer>
       </div>
       <script
   src="https://code.jquery.com/jquery-3.5.0.js"
