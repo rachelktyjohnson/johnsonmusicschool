@@ -9,8 +9,7 @@ a {
 }
 
 h2 {
-  display: table;
-  background: -webkit-linear-gradient(-45deg, #1d3b6d, #018f5f);
+  background: -webkit-linear-gradient(45deg, #1d3b6d, #018f5f);
   -webkit-text-fill-color: transparent;
   -webkit-background-clip: text;
 }
