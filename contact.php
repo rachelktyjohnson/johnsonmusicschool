@@ -1,5 +1,5 @@
 <?php include('includes/header.php');?>
-<div class="page-header" style="background-image:url('img/header-contact.png')">
+<div class="page-header" style="background-image:url('img/header-contact.jpg')">
   <h1>Contact</h1>
 </div>
 <main>

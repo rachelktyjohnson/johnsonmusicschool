@@ -1,11 +1,11 @@
 <?php include('includes/header.php');?>
-<div class="page-header" style="background-image:url('img/header-bass.png')">
+<div class="page-header" style="background-image:url('img/header-bass.jpg')">
   <h1>Bass Lessons</h1>
 </div>
 <main>
 
   <div class="container-lessons">
-    <div class="desktop-only lesson-image" style="background-image:url('img/bass.png')">
+    <div class="desktop-only lesson-image" style="background-image:url('img/bass.jpg')">
     </div>
     <div>
       <h2>Bass</h2>

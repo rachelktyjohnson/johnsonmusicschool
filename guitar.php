@@ -1,11 +1,11 @@
 <?php include('includes/header.php');?>
-<div class="page-header" style="background-image:url('img/header-guitar.png')">
+<div class="page-header" style="background-image:url('img/header-guitar.jpg')">
   <h1>Guitar Lessons</h1>
 </div>
 <main>
 
   <div class="container-lessons">
-    <div class="desktop-only lesson-image" style="background-image:url('img/guitar-acoustic.png')">
+    <div class="desktop-only lesson-image" style="background-image:url('img/guitar-acoustic.jpg')">
     </div>
     <div>
       <h2>Acoustic Guitar</h2>
@@ -43,7 +43,7 @@
   </div>
 
   <div class="container-lessons">
-    <div class="desktop-only lesson-image" style="background-image:url('img/guitar-electric.png')">
+    <div class="desktop-only lesson-image" style="background-image:url('img/guitar-electric.jpg')">
 
     </div>
     <div>

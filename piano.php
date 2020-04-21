@@ -1,11 +1,11 @@
 <?php include('includes/header.php');?>
-<div class="page-header" style="background-image:url('img/header-piano.png')">
+<div class="page-header" style="background-image:url('img/header-piano.jpg')">
   <h1>Piano Lessons</h1>
 </div>
 <main>
 
   <div class="container-lessons">
-    <div class="desktop-only lesson-image" style="background-image:url('img/piano.png')">
+    <div class="desktop-only lesson-image" style="background-image:url('img/piano.jpg')">
     </div>
     <div>
       <h2>Piano</h2>
