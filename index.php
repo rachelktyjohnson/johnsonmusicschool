@@ -3,7 +3,7 @@
   <?php
     $sliderImage = rand(1,3);
   ?>
-  <img src="img/slider-<?= $sliderImage; ?>.jpg" />
+  <img alt="Johnson Music School Banner" src="img/slider-<?= $sliderImage; ?>.jpg" />
 </div>
 <main>
 <div class="container-homepage">
@@ -18,11 +18,6 @@
 
 <?php include("includes/callout.php"); ?>
 
-  <!--<h2 class="instatitle">Check us out on Instagram</h2>
-  <script src="https://cdn.lightwidget.com/widgets/lightwidget.js"></script>
-  <iframe class="desktop-only" src="//lightwidget.com/widgets/6c0c1b820b1d54d4987f73bb2da80bb2.html" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width:100%;border:0;overflow:hidden;"></iframe>
-  <iframe class="mobile-only" src="//lightwidget.com/widgets/8f739c168911516cab032b506e42bbfc.html" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width:100%;border:0;overflow:hidden;"></iframe>
--->
 </div>
 
 

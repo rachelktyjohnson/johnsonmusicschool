@@ -22,7 +22,7 @@
             <ul>
               <li><a href="index.php">Home</a></li>
               <li>
-                <a href="#" class="lessons-toggle">Lessons&#9662;</a>
+                <a href="#" class="lessons-toggle">Instruments&#9662;</a>
                 <ul class="lessons-dropdown">
                   <li><a href="guitar.php">Guitar</a></li>
                   <li><a href="piano.php">Piano</a></li>

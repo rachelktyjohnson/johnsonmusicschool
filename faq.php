@@ -9,7 +9,7 @@
     <h4>What are your teaching dates?</h4>
     <p>We follow the NSW School Term Dates.</p>
     <h4>Where is the school?</h4>
-    <p>We are in Blacktown, bordering Kings Langley and Lalor Park. The full address is available on request.</p>
+    <p>We are located in Suite 209, 30 Campbell Street, Blacktown. There is ample parking nearby in Colo Lane Car Park or the Workers Club Car Park.</p>
     <h4> Do I have to own my own instrument?</h4>
     <p>It is suggested that you own your own instrument, as home-practice is essential in musical learning. Students must bring their guitar, ukulele, bass instrument to class, along with amp/pedalboard if requested by the teacher. A piano is available for lessons at the school.</p>
     <h4>Do you teach adults?</h4>
@@ -21,13 +21,13 @@
 
     <h2>Pricing &amp; Payments</h2>
     <h4>What are your lesson fees?</h4>
-    <p>30-minute lessons are $30. These are paid monthly and in advance.</p>
+    <p>30-minute lessons are $35, invoiced monthly or by term.</p>
     <h4>How will I pay?</h4>
-    <p>Invoices will be issued at the beginning of the month for that month. These are to be paid within the first 2 weeks of the month.</p>
+    <p>Invoices will be issued at the beginning of the month/term for that month/term.</p>
     <h4>What forms of payment do you accept?</h4>
-    <p>We accept bank transfer, or cash at the lesson.</p>
+    <p>We accept bank transfer or cash, and a receipt can be issued upon request.</p>
     <h4>Can I have a trial lesson?</h4>
-    <p>Yes! You may have one 30-minute trial lesson for $15, payable by cash on the day.</p>
+    <p>Yes! We offer a FREE 30-minute trial lesson for all new students. Just contact us to find a suitable time and book!</p>
 
 
     <hr>

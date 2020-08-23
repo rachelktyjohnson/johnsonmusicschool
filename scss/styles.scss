@@ -301,6 +301,10 @@ main {
       margin-top:30px;
       margin-bottom:30px;
     }
+    .independent-teachers-subtitle{
+      font-size:1.2rem;
+      margin-bottom:20px;
+    }
     .faculty{
       @include tablet{
         display:grid;
@@ -315,15 +319,24 @@ main {
         h4{
           font-weight:500;
           font-size:1.3rem;
-          margin-bottom:10px;
           color:#1d3b6d;
+        }
+        span{
+          font-size:0.9rem;
+          color:#666;
+          font-weight:300;
+        }
+
+        h5{
+          margin-top:10px;
+          font-size:1.3rem;
         }
         margin-bottom:50px;
         .faculty-member-image{
           width:100%;
-          height:200px;
+          height:250px;
           background-size: cover;
-          background-position: top;
+          background-position: center;
         }
       }
     }
